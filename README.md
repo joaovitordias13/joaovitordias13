@@ -23,7 +23,7 @@
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-ribeiro-dias-339a56258/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
  <div align="center">  
-<a href = "mailto:joaovitordias.2b@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+[![Gmail Badge](https://img.shields.io/badge/-joaovitordias.2b@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaovitordias.2b@gmail.com)](mailto:joaovitordias.2b@gmail.com)
 </div>
 
   
