@@ -64,10 +64,6 @@
   
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
 
-![snake gif](https://github.com/joaovitordias13/joaovitordias13/blob/output/github-contribution-grid-snake.svg)
+
+![Snake animation](https://raw.githubusercontent.com/joaovitordias13/joaovitordias13/output/github-contribution-grid-snake-dark.svg)
