@@ -52,9 +52,10 @@
 ![Less](https://img.shields.io/badge/-less-0D1117?style=for-the-badge&logo=less&labelColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-0D1117?style=for-the-badge&logo=redux&logoColor=D1117&textColor=0D1117)&nbsp;
+![Babel](https://img.shields.io/badge/Babel-0D1117?style=for-the-badge&logo=babel&logoColor=0D1117)
 
 ### Studying in this moment:
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=0D1117&textColor=0D1117)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=0D1117&textColor=0D1117)&nbsp;
 
 
   <div align="center">
