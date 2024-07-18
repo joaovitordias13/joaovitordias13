@@ -55,7 +55,7 @@
 ![Babel](https://img.shields.io/badge/Babel-0D1117?style=for-the-badge&logo=babel&logoColor=0D1117&textColor=yellow)&nbsp;
 
 ### Studying in this moment:
-![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=0D1117&textColor=23CC342D)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&logoColor=0D1117&textColor=red)&nbsp;
 
 
   <div align="center">
