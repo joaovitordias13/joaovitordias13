@@ -50,7 +50,7 @@
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
 ![Gulp](https://img.shields.io/badge/-gulp-0D1117?style=for-the-badge&logo=gulp&labelColor=0D1117)&nbsp;
 ![Less](https://img.shields.io/badge/-less-0D1117?style=for-the-badge&logo=less&labelColor=0D1117)&nbsp;
-![Styled Components](https://img.shields.io/badge/-styled--components-0D1117?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![Styled Components](https://img.shields.io/badge/-styled--components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
 ![Redux](https://img.shields.io/badge/redux-0D1117?style=for-the-badge&logo=redux&logoColor=D1117&textColor=0D1117)&nbsp;
 ![Babel](https://img.shields.io/badge/Babel-0D1117?style=for-the-badge&logo=babel&labelColor=0D1117)&nbsp;
 
