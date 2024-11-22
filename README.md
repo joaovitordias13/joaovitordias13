@@ -48,6 +48,7 @@
 ![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=red)
 ![Gulp](https://img.shields.io/badge/-gulp-0D1117?style=for-the-badge&logo=gulp&labelColor=0D1117)&nbsp;
 ![Less](https://img.shields.io/badge/-less-0D1117?style=for-the-badge&logo=less&labelColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styled--components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
@@ -57,7 +58,7 @@
 ### Studying in this moment:
 ![Node](https://img.shields.io/badge/Node.js-0D1117?logo=node.js&logoColor=green&style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-0D1117?logo=mysql&logoColor=blue&style=for-the-badge)&nbsp;
-![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=red)
+![Docker](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=white)
 
 
 
