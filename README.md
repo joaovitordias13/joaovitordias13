@@ -55,9 +55,9 @@
 ![Babel](https://img.shields.io/badge/Babel-0D1117?style=for-the-badge&logo=babel&labelColor=0D1117)&nbsp;
 
 ### Studying in this moment:
-![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
 ![Node](https://img.shields.io/badge/Node.js-0D1117?logo=node.js&logoColor=white&style=for-the-badge&labelColor=0D1117)&nbsp;
-![Node](https://img.shields.io/badge/MySQL-0D1117?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
+![Mysql](https://img.shields.io/badge/MySQL-0D1117?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
+![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)
 
 
 
