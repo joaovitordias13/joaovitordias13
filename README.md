@@ -42,7 +42,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
-![Android Studio](https://img.shields.io/badge/android%20studio-0D1117?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-0D1117?style=for-the-badge&logo=android%20studio&logoColor=purple)
 
 
 ### Other Knowledge:
