@@ -56,7 +56,7 @@
 
 ### Studying in this moment:
 ![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
-![Node](https://img.shields.io/badge/Node.js-0D1117?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node&labelColor=0D1117)&nbsp;
 
 
 
