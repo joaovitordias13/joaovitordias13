@@ -34,7 +34,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=for-the-badge&logo=Typescript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 
 ### Tools:
@@ -48,6 +47,7 @@
 ![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-0D1117?style=for-the-badge&logo=jquery&labelColor=0D1117)&nbsp;
 ![Sass](https://img.shields.io/badge/-Sass-0D1117?style=for-the-badge&logo=sass&labelColor=0D1117)&nbsp;
+![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=React&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Gulp](https://img.shields.io/badge/-gulp-0D1117?style=for-the-badge&logo=gulp&labelColor=0D1117)&nbsp;
 ![Less](https://img.shields.io/badge/-less-0D1117?style=for-the-badge&logo=less&labelColor=0D1117)&nbsp;
 ![Styled Components](https://img.shields.io/badge/-styled--components-0D1117?style=for-the-badge&logo=styled-components&labelColor=0D1117)&nbsp;
@@ -56,6 +56,9 @@
 
 ### Studying in this moment:
 ![Jest](https://img.shields.io/badge/-jest-0D1117?style=for-the-badge&logo=jest&labelColor=0D1117)&nbsp;
+![Node](https://img.shields.io/badge/Node.js-0D1117?logo=node.js&logoColor=white&style=for-the-badge)&nbsp;
+
+
 
 
   <div align="center">
