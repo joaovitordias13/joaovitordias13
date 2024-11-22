@@ -57,7 +57,7 @@
 ### Studying in this moment:
 ![Node](https://img.shields.io/badge/Node.js-0D1117?logo=node.js&logoColor=white&style=for-the-badge&labelColor=0D1117)&nbsp;
 ![Mysql](https://img.shields.io/badge/MySQL-0D1117?logo=mysql&logoColor=white&style=for-the-badge)&nbsp;
-![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=red)
 
 
 
