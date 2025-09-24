@@ -54,15 +54,16 @@
 ![Angular](https://img.shields.io/badge/angular-0D1117?style=for-the-badge&logo=angular&logoColor=red)
 ![Gulp](https://img.shields.io/badge/-gulp-0D1117?style=for-the-badge&logo=gulp&labelColor=0D1117)&nbsp;
 ![Less](https://img.shields.io/badge/-less-0D1117?style=for-the-badge&logo=less&labelColor=0D1117)&nbsp;
+![Mysql](https://img.shields.io/badge/MySQL-0D1117?logo=mysql&logoColor=blue&style=for-the-badge)&nbsp;
 
 ### Studying in this moment:
 ![Node](https://img.shields.io/badge/Node.js-0D1117?logo=node.js&logoColor=green&style=for-the-badge&labelColor=0D1117)&nbsp;
-![Mysql](https://img.shields.io/badge/MySQL-0D1117?logo=mysql&logoColor=blue&style=for-the-badge)&nbsp;
-![Docker](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=blue)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=0D1117)&nbsp;
 
 ### I want to study:
 ![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=Flutter&logoColor=blue)&nbsp;
 ![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=openjdk&logoColor=orange)&nbsp;
+![Docker](https://img.shields.io/badge/docker-0D1117?style=for-the-badge&logo=docker&logoColor=blue)
 
   <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
