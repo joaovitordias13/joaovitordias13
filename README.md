@@ -59,7 +59,7 @@
 ### Studying in this moment:
 ![Node](https://img.shields.io/badge/Node.js-0D1117?logo=node.js&logoColor=green&style=for-the-badge&labelColor=0D1117)&nbsp;
 ![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=green&labelColor=0D1117)&nbsp;
-![Sequelize](https://img.shields.io/badge/Sequelize-0D11177?style=for-the-badge&logo=Sequelize&labelColor=0D1117&logoColor=white)&nbsp;
+![Sequelize](https://img.shields.io/badge/Sequelize-0D11177?style=for-the-badge&logo=Sequelize&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/express.js-0D1117?style=for-the-badge&logo=express&logoColor=%2361DAFB)&nbsp;
 
 ### I want to study:
