@@ -44,6 +44,7 @@
 ![Android Studio](https://img.shields.io/badge/android%20studio-0D1117?style=for-the-badge&logo=android%20studio&logoColor=purple)
 ![Jira](https://img.shields.io/badge/jira-0D1117?style=for-the-badge&logo=jira&logoColor=230A0FFF)
 ![GitLab](https://img.shields.io/badge/gitlab-0D1117?style=for-the-badge&logo=gitlab&logoColor=orange)
+![Notion](https://img.shields.io/badge/Notion--0D1117?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 
 
 ### Other Knowledge:
